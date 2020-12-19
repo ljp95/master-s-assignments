@@ -1,0 +1,17 @@
+(define (problem exercice4Problem)
+	(:domain exSinge)
+
+	(:init (situe singe a)
+		(niveau singe bas)
+		(situe bananes b)
+		(niveau bananes haut)
+		(situe caisse c)
+		(niveau caisse bas)
+		(empty))
+
+	(:goal (and (possede singe bananes)
+		(situe caisse b)
+		(situe singe b)
+		(niveau caisse bas)
+		(niveau singe haut)))
+)

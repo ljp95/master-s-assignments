@@ -1,7 +1,7 @@
 # master-s-assignments
 COURSES   
 <pre>
-* AMAL : Advanced MAchine Learning and deep learning
+* AMAL  : Advanced MAchine Learning and deep learning
 * BIMA  : Bases pour le traitement d'IMAges 
           Basic image processing 
 * IAMSI : Intelligence Artificielle et Manipulation Symbolique de l'Information
@@ -27,16 +27,16 @@ Then the more important "goal" of the assignments guide the classification.
 Strong texts relate to M2 courses for which assignments play the main part in grades contrary to the ones in M1 
 
 * Deep learning for computer vision and image processing
-  * __[Cnn - regularization methods]__(https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/cnn%20-%20regularization%20methods.py and https://github.com/ljp95/masters-assignments/blob/main/AMAL/regularization.py)
-  * __[Filters and maps visualization]__(https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/filters%20and%20maps%20visualization.ipynb) 
-  * __[Transfer learning]__(https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/transfer%20learning.py) 
-  * __[Saliency maps - adversarial examples - class visualization]__(https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/saliency%20maps%20-%20adversarial%20examples%20-%20class%20visualization.ipynb)   
-  * __[Gan]__(https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/gan.ipynb) 
-  * __[Cgan - cdcgan]__(https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/cgan%20-%20cdcgan.ipynb)   
-  * __[Variational encoder]__(https://github.com/ljp95/masters-assignments/blob/main/RLADL/variational%20encoder.py)
-  * __[Bayesian neural network - linear regression]__(https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/bayesian%20linear%20regression.ipynb)   
-  * __[Approximate variational inference]__(https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/approximate%20variational%20inference.ipynb) 
-  * __[Dropout for uncertainty applications]__(https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/dropout%20for%20uncertainty%20applications.ipynb) 
+  * [__Cnn - regularization methods__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/cnn%20-%20regularization%20methods.py and https://github.com/ljp95/masters-assignments/blob/main/AMAL/regularization.py)
+  * [__Filters and maps visualization__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/filters%20and%20maps%20visualization.ipynb) 
+  * [__Transfer learning__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/transfer%20learning.py) 
+  * [__Saliency maps - adversarial examples - class visualization__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/saliency%20maps%20-%20adversarial%20examples%20-%20class%20visualization.ipynb)   
+  * [__Gan__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/gan.ipynb) 
+  * [__Cgan - cdcgan__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/cgan%20-%20cdcgan.ipynb)   
+  * [__Variational encoder__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/variational%20encoder.py)
+  * [__Bayesian neural network - linear regression__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/bayesian%20linear%20regression.ipynb)   
+  * [__Approximate variational inference__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/approximate%20variational%20inference.ipynb) 
+  * [__Dropout for uncertainty applications__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/dropout%20for%20uncertainty%20applications.ipynb) 
 
 * "Classical" computer vision and image processing 
   * [Histogram manipulation](https://github.com/ljp95/master-s-assignments/tree/main/BIMA/histogram%20manipulation) 
@@ -46,37 +46,37 @@ Strong texts relate to M2 courses for which assignments play the main part in gr
   * [Laplacian - sobel - nms](https://github.com/ljp95/master-s-assignments/tree/main/BIMA/laplacian%20-%20sobel%20-%20nms)   
   * [Harris detector](https://github.com/ljp95/master-s-assignments/tree/main/BIMA/harris%20detector) 
   * [Image retrieval based on colors quantification](https://github.com/ljp95/master-s-assignments/tree/main/BIMA/image%20retrieval%20based%20on%20colors%20quantification) 
-  * [Quad tree - split and merge](https://github.com/ljp95/master-s-assignments/tree/main/BIMA/quad%20tree%20-%20split%26merge) 
-  * __[Expression recognition pipeline]__(https://github.com/ljp95/master-s-assignments/tree/main/VISION/expression%20recognition%20pipeline) 
-  * [Eigenfaces for face recognition](https://github.com/ljp95/master-s-assignments/tree/main/BIMA/eigenfaces%20for%20face%20recognition)
-  * __[Sift-bow-svm]__(https://github.com/ljp95/master-s-assignments/tree/main/RDFIA/sift-bow-svm)   
-  * __[Mathematical morphology]__(https://github.com/ljp95/master-s-assignments/blob/main/TADI/mathematical%20morphology.py) 
-  * __[Deformable models]__(https://github.com/ljp95/master-s-assignments/blob/main/TADI/deformable%20models.py) 
-  * __[Markov random field]__(https://github.com/ljp95/master-s-assignments/blob/main/TADI/markov%20random%20field.py) 
-  * __[Mrf classification]__(https://github.com/ljp95/master-s-assignments/blob/main/TADI/mrf%20classification.py) 
-  * __[Sampling - icm - simulated annealing]__(https://github.com/ljp95/master-s-assignments/blob/main/TADI/sampling%20-%20icm%20-%20simulated%20annealing.py) 
-  * __[Scale space](https://github.com/ljp95/master-s-assignments/blob/main/TADI/scale%20space.ipynb) 
-  * __[Optical flow - horn - lucas-kanade]__(https://github.com/ljp95/master-s-assignments/tree/main/VISION/optical%20flow%20-%20horn%20-%20lucas-kanade) 
-  * __[Tracking - hough - meanshift]__(https://github.com/ljp95/master-s-assignments/tree/main/VISION/tracking%20-%20hough%20-%20meanshift) 
-  * __[Disparity maps - graphcut]__(https://github.com/ljp95/master-s-assignments/blob/main/VISION/disparity%20maps%20-%20graphcut.cpp) 
-  * __[Disparity maps - seeds expansion]__(https://github.com/ljp95/master-s-assignments/blob/main/VISION/disparity%20maps%20-%20seeds%20expansion.cpp) 
-  * __[Essential and fundamental matrices - ransac]__(https://github.com/ljp95/master-s-assignments/blob/main/VISION/essential%20and%20fundamental%20matrices%20-%20ransac.cpp) 
-  * __[Panorama]__(https://github.com/ljp95/master-s-assignments/blob/main/VISION/panorama.cpp) 
+  * [Quad tree - split and merge__](https://github.com/ljp95/master-s-assignments/tree/main/BIMA/quad%20tree%20-%20split%26merge) 
+  * [Eigenfaces for face recognition__](https://github.com/ljp95/master-s-assignments/tree/main/BIMA/eigenfaces%20for%20face%20recognition)
+  * [__Expression recognition pipeline__](https://github.com/ljp95/master-s-assignments/tree/main/VISION/expression%20recognition%20pipeline)   
+  * [__Sift-bow-svm__](https://github.com/ljp95/master-s-assignments/tree/main/RDFIA/sift-bow-svm)   
+  * [__Mathematical morphology__](https://github.com/ljp95/master-s-assignments/blob/main/TADI/mathematical%20morphology.py) 
+  * [__Deformable models__](https://github.com/ljp95/master-s-assignments/blob/main/TADI/deformable%20models.py) 
+  * [__Markov random field__](https://github.com/ljp95/master-s-assignments/blob/main/TADI/markov%20random%20field.py) 
+  * [__Mrf classification__](https://github.com/ljp95/master-s-assignments/blob/main/TADI/mrf%20classification.py) 
+  * [__Sampling - icm - simulated annealing__](https://github.com/ljp95/master-s-assignments/blob/main/TADI/sampling%20-%20icm%20-%20simulated%20annealing.py) 
+  * [__Scale space__](https://github.com/ljp95/master-s-assignments/blob/main/TADI/scale%20space.ipynb) 
+  * [__Optical flow - horn - lucas-kanade__](https://github.com/ljp95/master-s-assignments/tree/main/VISION/optical%20flow%20-%20horn%20-%20lucas-kanade) 
+  * [__Tracking - hough - meanshift__](https://github.com/ljp95/master-s-assignments/tree/main/VISION/tracking%20-%20hough%20-%20meanshift) 
+  * [__Disparity maps - graphcut__](https://github.com/ljp95/master-s-assignments/blob/main/VISION/disparity%20maps%20-%20graphcut.cpp) 
+  * [__Disparity maps - seeds expansion__](https://github.com/ljp95/master-s-assignments/blob/main/VISION/disparity%20maps%20-%20seeds%20expansion.cpp) 
+  * [__Essential and fundamental matrices - ransac__](https://github.com/ljp95/master-s-assignments/blob/main/VISION/essential%20and%20fundamental%20matrices%20-%20ransac.cpp) 
+  * [__Panorama__](https://github.com/ljp95/master-s-assignments/blob/main/VISION/panorama.cpp) 
 
 * Deep learning for natural language processing
-  * __[RNN - linear regression - generation of speech]__(https://github.com/ljp95/masters-assignments/blob/main/AMAL/rnn.py)
+  * [__Rbb - linear regression - generation of speech__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/rnn.py)
 
 * Introduction to pytorch
-  * __[Autograd and module]__(https://github.com/ljp95/masters-assignments/blob/main/AMAL/autograd%20and%20module.ipynb)
-  * __[Checkpoint and gpu]__(https://github.com/ljp95/masters-assignments/blob/main/AMAL/checkpointing%20and%20gpu.ipynb)
-  * __[Neural networks]__(https://github.com/ljp95/master-s-assignments/tree/main/RDFIA/neural%20networks)   
+  * [__Autograd and module__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/autograd%20and%20module.ipynb)
+  * [__Checkpoint and gpu__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/checkpointing%20and%20gpu.ipynb)
+  * [__Neural networks__](https://github.com/ljp95/master-s-assignments/tree/main/RDFIA/neural%20networks)   
   
 * Reinforcement learning
-  * __[Value and policy iteration]__(https://github.com/ljp95/masters-assignments/blob/main/RLADL/value%20and%20policy%20iteration.py)
-  * __[Q-learning]__(https://github.com/ljp95/masters-assignments/blob/main/RLADL/qlearning.py)
-  * __[Dyna-Q]__(https://github.com/ljp95/masters-assignments/blob/main/RLADL/dyna-q.py)
-  * __[Sarsa]__(https://github.com/ljp95/masters-assignments/blob/main/RLADL/sarsa.py)
-  * __[Dqn - experience replay - target network]__(https://github.com/ljp95/masters-assignments/blob/main/RLADL/dqn%20-%20experience%20replay%20-%20target%20network.py)
+  * [__Value and policy iteration__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/value%20and%20policy%20iteration.py)
+  * [__Q-learning__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/qlearning.py)
+  * [__Dyna-Q__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/dyna-q.py)
+  * [__Sarsa__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/sarsa.py)
+  * [__Dqn - experience replay - target network__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/dqn%20-%20experience%20replay%20-%20target%20network.py)
 
 * "Classical" Machine Learning
   * [Gradient descent - logistic regression](https://github.com/ljp95/master-s-assignments/blob/main/ML/gradient%20descent%20-%20logistic%20regression.py) 

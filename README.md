@@ -27,7 +27,8 @@ Then the more important "goal" of the assignments guide the classification.
 Strong texts relate to M2 courses for which assignments play the main part in grades contrary to the ones in M1 
 
 * Deep learning for computer vision and image processing
-  * [__Cnn - regularization methods__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/cnn%20-%20regularization%20methods.py and https://github.com/ljp95/masters-assignments/blob/main/AMAL/regularization.py)
+  * [__Cnn - regularization methods__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/cnn%20-%20regularization%20methods.py)
+  * [__Regularization methods bis__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/regularization.py)
   * [__Filters and maps visualization__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/filters%20and%20maps%20visualization.ipynb) 
   * [__Transfer learning__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/transfer%20learning.py) 
   * [__Saliency maps - adversarial examples - class visualization__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/saliency%20maps%20-%20adversarial%20examples%20-%20class%20visualization.ipynb)   
@@ -81,7 +82,8 @@ Strong texts relate to M2 courses for which assignments play the main part in gr
 * "Classical" Machine Learning
   * [Gradient descent - logistic regression](https://github.com/ljp95/master-s-assignments/blob/main/ML/gradient%20descent%20-%20logistic%20regression.py) 
   * [Perceptron](https://github.com/ljp95/master-s-assignments/blob/main/ML/perceptron.py) 
-  * [Linear regression](https://github.com/ljp95/master-s-assignments/blob/main/MAPSI/regression.py and https://github.com/ljp95/masters-assignments/blob/main/AMAL/linear%20regression.ipynb)  
+  * [Linear regression](https://github.com/ljp95/master-s-assignments/blob/main/MAPSI/regression.py)
+  * [__Linear regression bis__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/linear%20regression.ipynb)  
   * [SVM - multiclass](https://github.com/ljp95/master-s-assignments/blob/main/ML/svm%20-%20multiclass.py) 
   * [Decision trees with sklearn](https://github.com/ljp95/master-s-assignments/blob/main/IAMSI/decision%20trees.ipynb) 
   * [Manual decision trees](https://github.com/ljp95/master-s-assignments/blob/main/ML/decision%20trees.py) 

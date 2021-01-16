@@ -24,7 +24,7 @@ Filtered by theme \
 No duplicates even if some files could be simultaneously classed in different domains. \
 Then the more important "goal" of the assignments guide the classification.
 
-Strong texts relate to M2 courses for which assignments play the main part in grades contrary to the ones in M1 
+Strong texts relate to M2 courses for which assignments play the main part in grades contrary to the ones in M1, so one can expect more robust code for the former.
 
 * Deep learning for computer vision and image processing
   * [__Cnn - regularization methods__](https://github.com/ljp95/master-s-assignments/blob/main/RDFIA/cnn%20-%20regularization%20methods.py)
@@ -65,8 +65,14 @@ Strong texts relate to M2 courses for which assignments play the main part in gr
   * [__Panorama__](https://github.com/ljp95/master-s-assignments/blob/main/VISION/panorama.cpp) 
 
 * Deep learning for natural language processing
-  * [__Rbb - linear regression - generation of speech__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/rnn.py)
-
+  * [__cnn1d__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/cnn1d.py)  
+  * [__Rnn - linear regression - generation of speech__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/rnn.py)
+  * [__sequence generation - lstm-gru__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/sequence%20generation%20-%20LSTM-GRU.py)  
+  * [__seq2seq - tagging__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/seq2seq%20-%20tagging.py)  
+  * [__seq2seq - traduction__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/ses2seq%20traduction.py)
+  * [__attention mechanism__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/attention%20mechanism.py)  
+  * [__attention in transformers - positional encoding - cls token__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/attention%20in%20transformers%20-%20positional%20encoding%20-%20cls%20token.py)
+  
 * Introduction to pytorch
   * [__Autograd and module__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/autograd%20and%20module.ipynb)
   * [__Checkpoint and gpu__](https://github.com/ljp95/masters-assignments/blob/main/AMAL/checkpointing%20and%20gpu.ipynb)

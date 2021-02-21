@@ -84,7 +84,12 @@ Strong texts relate to M2 courses for which assignments play the main part in gr
   * [__Dyna-Q__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/dyna-q.py)
   * [__Sarsa__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/sarsa.py)
   * [__Dqn - experience replay - target network__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/dqn%20-%20experience%20replay%20-%20target%20network.py)
-
+  * [__Vanilla policy gradient__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/vanilla%20policy%20gradient.py)
+  * [__Actor-critic__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/actor-critic.py)
+  * [__PPO - KL__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/ppo%20kl.py)
+  * [__PPO - clip__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/ppo%20clip.py)
+  * [__DDPG__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/ddpg.py)
+  
 * "Classical" Machine Learning
   * [Gradient descent - logistic regression](https://github.com/ljp95/master-s-assignments/blob/main/ML/gradient%20descent%20-%20logistic%20regression.py) 
   * [Perceptron](https://github.com/ljp95/master-s-assignments/blob/main/ML/perceptron.py) 

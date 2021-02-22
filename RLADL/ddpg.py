@@ -52,7 +52,7 @@ class DDPG(nn.Module):
         action = self.actor(features).data
         self.actor.train()
         if noise:
-            action += torch.randn(1)*self.gaussian_factor*0.1
+            action += (torch.randn(1)*self.gaussian_factor*0.1).to(self.device)
         action = torch.clamp(action,self.action_space.low[0],self.action_space.high[0])
         return action
     
@@ -63,8 +63,8 @@ def play_episode(model,env,T=10000,noise=True,buffer=None):
     
     for t in range(T):
         action = model.select_action(features,noise)
-        new_obs,reward,done,_ = env.step(action)
-        new_features = torch.Tensor([new_obs])            
+        new_obs,reward,done,_ = env.step(action[0].detach().cpu().numpy())
+        new_features = torch.Tensor([new_obs]).to(model.device)             
         
         if buffer:
             buffer.store(features,action,reward,done,new_features)  
@@ -83,8 +83,8 @@ def update(model,buffer,batch_size):
     batch = Transition(*zip(*transitions))
     batch_features = torch.cat(batch.features)
     batch_action = torch.cat(batch.action)
-    batch_reward = torch.tensor(batch.reward).unsqueeze(1)
-    batch_done = torch.tensor(batch.done).unsqueeze(1)
+    batch_reward = torch.tensor(batch.reward).unsqueeze(1).to(model.device)
+    batch_done = torch.tensor(batch.done).unsqueeze(1).to(model.device)
     batch_new_features = torch.cat(batch.new_features)
     
     new_q_values = model.new_critic(torch.cat((batch_new_features,model.new_actor(batch_new_features).detach()),dim=1))        

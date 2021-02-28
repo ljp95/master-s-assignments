@@ -89,6 +89,7 @@ Strong texts relate to M2 courses for which assignments play the main part in gr
   * [__PPO - KL__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/ppo%20kl.py)
   * [__PPO - clip__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/ppo%20clip.py)
   * [__DDPG__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/ddpg.py)
+  * [__MADDPG__](https://github.com/ljp95/masters-assignments/blob/main/RLADL/maddpg.py)
   
 * "Classical" Machine Learning
   * [Gradient descent - logistic regression](https://github.com/ljp95/master-s-assignments/blob/main/ML/gradient%20descent%20-%20logistic%20regression.py) 

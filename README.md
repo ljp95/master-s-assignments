@@ -18,6 +18,7 @@ COURSES
           Advanced image processing 
 * Tree and graph algorithms 
 * COMPUTER VISION 
+* MASTER THESIS : Context incremental learning for semantic segmentation of indoor scene with mobile robots
 </pre>
 
 Filtered by theme \
